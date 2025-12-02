@@ -44,14 +44,6 @@ This ensures the program can access the audio files properly.
 
 ---
 
-## NOTES
-
-* Python Version: 3.12.3
-* Made in: VS Codium
-* Operating System: Linux Mint - Release 22.1
-
----
-
 ## QUICK START
 
 1. Open a terminal and navigate to your folder:
@@ -67,3 +59,10 @@ python3 Forsaken_V2.py
 ```
 
 3. The program will automatically access the **Vocal Only** folder and use the audio files.
+
+
+## NOTES
+
+* Python Version: 3.12.3
+* Made in: VS Codium
+* Operating System: Linux Mint - Release 22.1
