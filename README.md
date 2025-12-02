@@ -1,8 +1,16 @@
 DEPENDENCIES:
 
--playsound -PyAudio -Pynput -pytesseract -pillow
+-playsound 
+-PyAudio 
+-Pynput 
+-pytesseract 
+-pillow
 
-TERMINAL pip install playsound==1.3.0 pip install PyAudio pip install Pynput pip install pillow pytesseract + sudo apt install tesseract-ocr pip install pillow
+TERMINAL 
+pip install playsound==1.3.0 
+pip install PyAudio 
+pip install Pynput 
+pip install pillow pytesseract + sudo apt install tesseract-ocr pip install pillow
 
 All of these are the latest version except playsound.
 
@@ -14,7 +22,9 @@ CONDITIONS:
 
 Make sure that the folder structure looks like this:
 
-FOLDER (whatever name you want) |-Forsaken_V2.py |-Vocal Only
+FOLDER (whatever name you want) 
+|-Forsaken_V2.py 
+|-Vocal Only
 
 This makes sure that the program can access the audio files properly
 
