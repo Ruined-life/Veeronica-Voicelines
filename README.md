@@ -44,7 +44,7 @@ This ensures the program can access the audio files properly.
 
 ---
 
-## CONDITIONS
+## NOTES
 
 * Python Version: 3.12.3
 * Made in: VS Codium
