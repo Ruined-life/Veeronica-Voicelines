@@ -29,4 +29,5 @@ Thumbs.db
 #Regular files
 pyproject.toml
 Plan
+installer.py
 /helper

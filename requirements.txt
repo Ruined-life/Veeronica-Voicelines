@@ -1,6 +1,6 @@
 numpy
 sounddevice
-scipy.io
+scipy
 pynput
 pyautogui
 pytesseract

@@ -13,12 +13,13 @@ RECOMMEND VOLUME TO PLAY AT
 ---
 
 ## Features
+```md
 Voice lines upon ability activation
 Idle voice lines
 
-TO BE ADDED
+TO BE ADDED:
 Damage sounds
-
+```
 ---
 
 ## Project Structure
@@ -31,22 +32,12 @@ requirements -> packages needed to run the program
 ```
 ---
 
-## Requirements
-```md
-Python 3.12
-```
----
+## Install Instructions
+## Windows
+Download run_installer.bat
+Run the bat file.
 
-## Build Instructions
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip setuptools wheel
-pip install -r requirements.txt
-sudo apt install tesseract-ocr python3-gi
-```
-
-### Clone the repository
-```bash
-git clone <https://github.com/Ruined-life/Veeronica-Voicelines.git>
-cd Forsaken-Voicelines
+## Linux
+Download Linuxinstaller.sh
+Run Linuxinstaller.sh
+(Your a linux user you know how to use the terminal)
