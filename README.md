@@ -19,6 +19,7 @@ Idle voice lines
 
 TO BE ADDED:
 Damage sounds
+Death sounds
 ```
 ---
 
@@ -35,10 +36,17 @@ requirements -> packages needed to run the program
 ## Install Instructions
 ## Windows
 ```md
-Download run_installer.bat and Wininstaller.ps1 
+Download Wininstaller.ps1 
 https://github.com/Ruined-life/Forsaken-Voicelines/releases
-Double click run_installer.bat
-(Make sure both of these files are in the same folder)
+Open a command prompt window
+Take note of where the file was installed (Move it into its own empty folder)
+Copy the file path of where you put the file
+Paste this: 
+cd <file_path>
+then do ./Wininstaller.ps1
+
+It will likely throw an error about a policy. To fix it paste this:
+powershell -ExecutionPolicy Bypass -File .\installer.ps1
 ```
 ## Linux
 ```md
