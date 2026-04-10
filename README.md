@@ -36,13 +36,13 @@ requirements -> packages needed to run the program
 ## Windows
 ```md
 Download run_installer.bat and Wininstaller.ps1 
-[Download latest version](https://github.com/Ruined-life/Forsaken-Voicelines/releases/latest)
+https://github.com/Ruined-life/Forsaken-Voicelines/releases/latest
 Double click run_installer.bat
 (Make sure both of these files are in the same folder)
 ```
 ## Linux
 ```md
 Download Linuxinstaller.sh 
-[Download latest version](https://github.com/Ruined-life/Forsaken-Voicelines/releases/latest)
+https://github.com/Ruined-life/Forsaken-Voicelines/releases/latest
 Run Linuxinstaller.sh
 ```
