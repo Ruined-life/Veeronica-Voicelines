@@ -42,5 +42,4 @@ Run the bat file.
 ```md
 Download Linuxinstaller.sh
 Run Linuxinstaller.sh
-(Your a linux user you know how to use the terminal)
 ```
